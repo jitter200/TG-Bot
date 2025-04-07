@@ -30,3 +30,9 @@ Built with Python and `python-telegram-bot`. Uses external APIs: OpenWeather and
 
 ## Logging
 - All actions and errors are logged to bot.log.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
